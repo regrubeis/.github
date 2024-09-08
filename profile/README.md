@@ -6,4 +6,4 @@ Através da integração da comunicação e dos incentivos proporcionados pelos 
 
 Para isso o github, ferramenta gratuíta que permite a criação desses projetos gerenciáveis por versão, versionamento de projetos e muito mais.
 
-[regrubeis.org](https://www.regrubeis.org/)
+[regrubeis.com](https://www.regrubeis.com/)
